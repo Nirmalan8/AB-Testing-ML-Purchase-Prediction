@@ -36,6 +36,5 @@ This project simulates an e-commerce A/B test to evaluate a new homepage design 
 - Jupyter Notebook
 
 ---
-**Tags:**  
-#MachineLearning #ABTesting #XGBoost #DataScience #Python #JupyterNotebook
+
 
